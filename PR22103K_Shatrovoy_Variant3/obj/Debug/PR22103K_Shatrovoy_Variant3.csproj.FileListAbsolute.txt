@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\PR22103K_Shatrovoy_Variant3\bin\Debug\PR22103K_Shatrovoy_Variant3.exe.config
+C:\Users\PC\source\repos\PR22103K_Shatrovoy_Variant3\bin\Debug\PR22103K_Shatrovoy_Variant3.exe
+C:\Users\PC\source\repos\PR22103K_Shatrovoy_Variant3\bin\Debug\PR22103K_Shatrovoy_Variant3.pdb
+C:\Users\PC\source\repos\PR22103K_Shatrovoy_Variant3\obj\Debug\PR22103K_Shatrovoy_Variant3.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\PR22103K_Shatrovoy_Variant3\obj\Debug\MainWindow.g.cs
+C:\Users\PC\source\repos\PR22103K_Shatrovoy_Variant3\obj\Debug\App.g.cs
+C:\Users\PC\source\repos\PR22103K_Shatrovoy_Variant3\obj\Debug\PR22103K_Shatrovoy_Variant3_MarkupCompile.cache
+C:\Users\PC\source\repos\PR22103K_Shatrovoy_Variant3\obj\Debug\PR22103K_Shatrovoy_Variant3_MarkupCompile.lref
+C:\Users\PC\source\repos\PR22103K_Shatrovoy_Variant3\obj\Debug\MainWindow.baml
+C:\Users\PC\source\repos\PR22103K_Shatrovoy_Variant3\obj\Debug\PR22103K_Shatrovoy_Variant3.g.resources
+C:\Users\PC\source\repos\PR22103K_Shatrovoy_Variant3\obj\Debug\PR22103K_Shatrovoy_Variant3.Properties.Resources.resources
+C:\Users\PC\source\repos\PR22103K_Shatrovoy_Variant3\obj\Debug\PR22103K_Shatrovoy_Variant3.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\PR22103K_Shatrovoy_Variant3\obj\Debug\PR22103K_Shatrovoy_Variant3.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\PR22103K_Shatrovoy_Variant3\obj\Debug\PR22103K_Shatrovoy_Variant3.exe
+C:\Users\PC\source\repos\PR22103K_Shatrovoy_Variant3\obj\Debug\PR22103K_Shatrovoy_Variant3.pdb
